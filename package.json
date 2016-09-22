@@ -6,7 +6,7 @@
   "author": "Segment <friends@segment.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/segmentio/integration-keen-io"
+    "url": "https://github.com/astronomer-integrations/integration-keen-io"
   },
   "main": "lib/index.js",
   "scripts": {
